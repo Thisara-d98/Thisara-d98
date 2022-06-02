@@ -1,11 +1,11 @@
-###yubowan👋, *Welcome to my profile*
+### Ayubowan, Welcome👋, Thisara Dilshan Hewage
 #### Computer Science Undergraduate
-I am B.sc computer science undergraduate at University of Colombo School of Computing. I introduce myself as a person with clear goal who never stop learning and always ready to be exposed to new experiences,
+B.sc computer science undergraduate at University of Colombo School of Computing. I introduce myself as a person with clear goal who never stop learning and always ready to be exposed to new experiences,
 
-Skills: Python, Java, C, JavaScript, PHP, React, NodeJS, SQL 
+Skills: Python/Java/C/JavaScript/PHP/React/NodeJS/SQL 
 
-- 🌱 I’m currently learning Computer Science 
-- 📫 How to reach me: thisarad582@gmail.com 
+- 🌱 I’m currently learning Computer Science at university of Colombo School of Computing 
+- 📫 How to reach me: thisarad582@gmail.com  
 - ⚡ Fun fact: Stress releaser 
 
 
@@ -18,5 +18,9 @@ Skills: Python, Java, C, JavaScript, PHP, React, NodeJS, SQL
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisara-d98&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Thisara-d98)  
+
+![GitHub metrics](https://metrics.lecoq.io/Thisara-d98)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Thisara-d98)  
 
 ![Profile views](https://gpvc.arturio.dev/Thisara-d98)  

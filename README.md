@@ -1,7 +1,7 @@
 ### Ayubowan👋, Thisara Dilshan Hewage
 #### Computer Science Undergraduate
-![Computer Science Undergraduate](https://github.com/Thisara-d98/Thisara-d98/blob/main/to%20my%20Github%20profile.mp4)
-
+https://github.com/Thisara-d98/Thisara-d98/blob/main/to%20my%20Github%20profile.gif
+![tomygithub](https://github.com/Thisara-d98/Thisara-d98/blob/main/to%20my%20Github%20profile.gif)
 B.sc computer science undergraduate at University of Colombo School of Computing. I introduce myself as a person with clear goal who never stop learning and always ready to be exposed to new experiences,
 
 Skills:  Python/Java/C/JavaScript/PHP/React/NodeJS/SQL/SCALA

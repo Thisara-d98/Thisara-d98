@@ -1,16 +1,22 @@
-### Hi there 👋
+###yubowan👋, *Welcome to my profile*
+#### Computer Science Undergraduate
+I am B.sc computer science undergraduate at University of Colombo School of Computing. I introduce myself as a person with clear goal who never stop learning and always ready to be exposed to new experiences,
 
-<!--
-**Thisara-d98/Thisara-d98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python, Java, C, JavaScript, PHP, React, NodeJS, SQL 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Computer Science 
+- 📫 How to reach me: thisarad582@gmail.com 
+- ⚡ Fun fact: Stress releaser 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thisara-d98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thisara-dilshan-hewage-73a2901a5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/___thi__sa__ra___/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thisarad19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/thisaradilshan)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thisara-d98)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara-d98)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisara-d98&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Thisara-d98)  
+
+![Profile views](https://gpvc.arturio.dev/Thisara-d98)  

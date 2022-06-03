@@ -2,18 +2,20 @@
 #### Computer Science Undergraduate
 
 ![Profile views](https://gpvc.arturio.dev/Thisara-d98)  
-B.sc computer science undergraduate at University of Colombo School of Computing. I introduce myself as a person with clear goal who never stop learning and always ready to be exposed to new experiences,
-![tomygithub](https://github.com/Thisara-d98/Thisara-d98/blob/main/to%20my%20Github%20profile.gif)
+B.sc computer science undergraduate at University of Colombo School of Computing. I introduce myself as a person with clear goal who never stop learning and always ready to be exposed to new experiences,<br>
+![tomygithub](https://github.com/Thisara-d98/Thisara-d98/blob/main/to%20my%20Github%20profile.gif)<br>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Thisara-d98) 
-
-
-
-
-Skills:  Python/Java/C/JavaScript/PHP/React/NodeJS/SQL/SCALA
 
 - 🌱 I’m currently learning at University of Colombo School of Computing 
 - ⚡ Fun fact: Stress Releaser 
 
+
+<h3>SKILLS</h3>
+<b>Languages</b> - Python, JAVA, PHP, JavaScript, C++, C, HTML, CSS<br>
+<b>Frameworks & Libraries</b>- NodeJS, React, ExpressJS,Bootstrap<br>
+<b>Database</b> - SQL<br> 
+<br>
+<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thisara-d98)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thisara-dilshan-hewage-73a2901a5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/___thi__sa__ra___/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thisarad19)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/thisaradilshan)  
 

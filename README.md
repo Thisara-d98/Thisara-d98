@@ -1,38 +1,82 @@
-### HII👋, Thisara Dilshan Hewage
-#### Computer Science Undergraduate
+# 👋 Hello, I'm Thisara Dilshan Hewage
 
-![Profile views](https://gpvc.arturio.dev/Thisara-d98)  
-B.sc computer science undergraduate at University of Colombo School of Computing. I introduce myself as a person with clear goal who never stop learning and always ready to be exposed to new experiences,<br>
-![tomygithub](https://github.com/Thisara-d98/Thisara-d98/blob/main/to%20my%20Github%20profile.gif)<br>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Thisara-d98) 
+#### Associate Software Engineer | Full Stack Developer | Continuous Learner
 
-- 🌱 I’m currently learning at University of Colombo School of Computing 
-- ⚡ Fun fact: Stress Releaser 
+![Profile Views](https://komarev.com/ghpvc/?username=Thisara-d98&color=5b7db1&style=flat-square)
 
+<div align="center">
+  <img src="https://github.com/Thisara-d98/Thisara-d98/blob/main/to%20my%20Github%20profile.gif" alt="Coding Animation" width="400">
+</div>
 
-<h3>SKILLS</h3>
-<b>Languages</b> - Python, JAVA, PHP, JavaScript, C++, C, HTML, CSS<br>
-<b>Frameworks & Libraries</b>- NodeJS, React, ExpressJS,Bootstrap<br>
-<b>Database</b> - SQL<br> 
-<br>
-<br>
+## 🚀 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thisara-d98)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thisara-dilshan-hewage-73a2901a5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/___thi__sa__ra___/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thisarad19)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/thisaradilshan)  
+B.Sc Computer Science graduate from University of Colombo School of Computing. Passionate about building robust software solutions with clean, efficient code. I thrive on continuous learning and embracing new challenges in the ever-evolving tech landscape.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
+## 🛠 Technical Skills
 
-<!-- ![skills](https://github.com/Thisara-d98/Thisara-d98/blob/main/skillset.png)
- -->
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thisara-d98)](https://github.com/ryo-ma/github-profile-trophy)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara-d98)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisara-d98&show_icons=true)  
+## 📈 GitHub Stats
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Thisara-d98)  
-![GitHub metrics](https://metrics.lecoq.io/Thisara-d98)  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thisara-d98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara-d98&layout=compact&langs_count=8&theme=algolia"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisara-d98&theme=algolia" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+- Advanced cloud computing concepts
+- Microservices architecture
+- Performance optimization techniques
+
+---
+
+## 💡 Fun Fact
+I believe coding is like solving puzzles - the more challenging, the more rewarding!
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisara-dilshan-hewage-73a2901a5/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thisara-d98)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___thi__sa__ra___/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thisarad19)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/thisaradilshan)
+
+---
+
+<div align="center">
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Thisara-d98.Thisara-d98)
+  
+</div>

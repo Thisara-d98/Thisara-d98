@@ -4,10 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Thisara-d98&color=5b7db1&style=flat-square)
 
-<div align="center">
-  <img src="https://github.com/Thisara-d98/Thisara-d98/blob/main/to%20my%20Github%20profile.gif" alt="Coding Animation" width="400">
-</div>
-
 ## 🚀 About Me
 
 B.Sc Computer Science graduate from University of Colombo School of Computing. Passionate about building robust software solutions with clean, efficient code. I thrive on continuous learning and embracing new challenges in the ever-evolving tech landscape.

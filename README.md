@@ -26,7 +26,7 @@ B.Sc Computer Science — University of Colombo School of Computing
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thisara-d98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Thisara-d98&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisara-d98&layout=compact&langs_count=6&theme=algolia"/>
 </div>
 
